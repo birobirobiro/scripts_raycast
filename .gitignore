@@ -1,4 +1,5 @@
 */node_modules
 /automation/env.js
+/automation/.DS_Store
 *yarn.lock
 *.DS_Store
